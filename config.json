@@ -1,0 +1,25 @@
+{
+    "URL_SERVER":"http://127.0.0.1:30120",
+
+    "LOG_LEVEL":"1", 
+
+    "BOT_TOKEN":"هنا اكتب توكن البوت",
+
+    "CHANNEL_ID":"هنا ايدي الروم",
+
+    "MESSAGE_ID":"هنا ايدي رسالة البوت",
+
+    "MAX_PLAYERS":"32",
+
+
+
+    "ServerName":"اسم السيرفر",
+
+    "LogoURL":"شعار السيرفر",
+
+    "BannerURL":"الصورة",
+
+    "TeamspeakIP":"ايبي التيم سبيك", 
+
+    "ConnectIP":"ايبي السيرفر"
+}
